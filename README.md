@@ -1,1 +1,0 @@
-# smallSurvey_database
